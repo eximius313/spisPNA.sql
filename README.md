@@ -1,4 +1,4 @@
-#### Zawsze aktualna i wysokiej jakości (walidowana) 
+#### Zawsze aktualna (październik 2016) i wysokiej jakości (walidowana) 
 # Baza Kodów Pocztowych (PNA)
 
 Jak wiesz możesz kupić gotową bazę Pocztowych Numerów Adresowych (PNA) za [grubą kasę](http://www.bazakodowpocztowych.pl/) albo kupić źródła u Poczty Polskiej i [dziergać ją samemu](https://www.poczta-polska.pl/spis-pna/).
